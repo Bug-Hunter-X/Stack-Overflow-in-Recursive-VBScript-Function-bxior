@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: stack overflow due to uncontrolled recursion. The bug.vbs file contains a recursive function that lacks a proper base case, causing it to call itself infinitely. The bugSolution.vbs file provides a corrected version that prevents the stack overflow.
